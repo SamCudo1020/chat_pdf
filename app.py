@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 import platform
 
 # App title and presentation
-st.title('Experto en arañas 𓆏')
+st.title('𓆏Experto en arañas 𓆏')
 st.write("Versión de Python:", platform.python_version())
 
 # Load and display image
